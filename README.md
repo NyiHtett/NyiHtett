@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Nyi Htet. 
 I'm currently learning front-end development 
-Tech stack - HTML, CSS, JS, REACT.JS, REACT NATIVE
 
 
 <!--
