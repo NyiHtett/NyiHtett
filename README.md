@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Nyi Htet. 
+I'm currently learning front-end development 
+Tech stack - HTML, CSS, JS, REACT.JS, REACT NATIVE
+
 
 <!--
 **NyiHtett/NyiHtett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
