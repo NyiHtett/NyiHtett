@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nyi Htet</h1>
 <h3 align="center">Aspiring Frontend developer</h3>
-<img align = "right" width = "200" src = "https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyihtett&label=Profile%20views&color=0e75b6&style=flat" alt="nyihtett" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
